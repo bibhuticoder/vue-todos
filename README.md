@@ -1,6 +1,13 @@
 # todos
 
-> A Vue.js project
+- A multipurpose todo-list app on Vue.js.
+- Similar version of todo-app on React.js is here: https://github.com/bibhuticoder/react-todos
+
+## demo
+
+https://bibhuticoder.github.io/vue-todos/dist/#/
+
+
 
 ## Build Setup
 
@@ -17,5 +24,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
